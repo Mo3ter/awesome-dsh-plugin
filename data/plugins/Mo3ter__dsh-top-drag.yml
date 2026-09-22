@@ -1,0 +1,6 @@
+url: https://github.com/Mo3ter/dsh-top-drag
+name: Mo3ter/dsh-top-drag
+category: ui
+description:
+  en: Keeps the top of the DSH Desktop window draggable and clickable at once, by replacing the shipped window-drag overlay with a band that yields to whatever UI is drawn under it.
+  zh: 把 DSH Desktop 窗口顶部变成一条会避让界面元素的拖动带，让顶部既能拖动窗口、又不挡点击。
