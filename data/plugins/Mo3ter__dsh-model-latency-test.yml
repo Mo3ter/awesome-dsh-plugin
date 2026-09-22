@@ -1,0 +1,6 @@
+url: https://github.com/Mo3ter/dsh-model-latency-test
+name: Mo3ter/dsh-model-latency-test
+category: model
+description:
+  en: 'Adds a Model Test page to Settings that runs every registered provider models one after another and shows the first-token latency (TTFT) in milliseconds for each model, or marks it as failed.'
+  zh: '设置页新增「模型测试」：一键按顺序测试所有已注册提供方的全部模型，实时显示首 token 延迟（TTFT，毫秒）或失败，用来挑出当前网络下响应最快的模型；每个提供方一张可折叠卡片。'
