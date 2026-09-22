@@ -2,5 +2,5 @@ url: https://github.com/Mo3ter/dsh-top-drag
 name: Mo3ter/dsh-top-drag
 category: ui
 description:
-  en: Keeps the top of the DSH Desktop window draggable and clickable at once, by replacing the shipped window-drag overlay with a band that yields to whatever UI is drawn under it.
-  zh: 把 DSH Desktop 窗口顶部变成一条会避让界面元素的拖动带，让顶部既能拖动窗口、又不挡点击。
+  en: 'DSH Desktop client plugin (Windows): the top of the window becomes a measuring drag band that yields wherever a clickable element sits, so the window drag grip, the session header, the subagent button and plugin toolbars drawn there stop being swallowed by the shipped window-drag overlay.'
+  zh: 'DSH Desktop 客户端插件（仅 Windows）：修复窗口顶部拖动条挡住点击的问题——窗口最上方、会话标题栏、子代理按钮、插件顶部工具栏的按钮都点不到；改用 16 格测量带，有按钮的格子让位、其余格子仍可拖动窗口，按需测量不轮询。'
